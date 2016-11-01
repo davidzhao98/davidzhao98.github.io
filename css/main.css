@@ -41,8 +41,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-@font-face
-{
+@font-face {
     font-family: YEEZY;
     src: url('yeezy_tstar-regular-webfont.ttf'),
 }
