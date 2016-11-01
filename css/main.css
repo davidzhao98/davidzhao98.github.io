@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'YEEZY';
+    font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,7 +21,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'YEEZY';
+    font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
 }
 p {
     font-size: 1.5em;
@@ -41,7 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-@font-face {
-    font-family: YEEZY;
+@font-face
+{
+    font-family: YEEZY TSTAR;
     src: url('yeezy_tstar-regular-webfont.ttf'),
 }
