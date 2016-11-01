@@ -1,6 +1,6 @@
 body {
     background-color: #838383;
-    margin: 10px auto;
+    margin: 0px;
     width: 100%;
 }
 html, body {
@@ -13,6 +13,11 @@ body > * {
       flex-shrink: 0;
 }
 .div1 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.div2 {
       background-color: orange;
       flex-grow: 1;
     }
