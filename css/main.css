@@ -4,6 +4,8 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
+    text-align: center;
+    color: white;
     font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
     padding: 0px;
     list-style: none;
@@ -21,10 +23,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    color: white;
     font-size: 3em;
     font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
 }
 p {
+    color: white;
     font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
     font-size: 1.5em;
     line-height: 1.4em;
