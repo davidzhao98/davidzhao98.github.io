@@ -19,11 +19,6 @@ a {
 a:hover {
     text-decoration: underline;
 }
-@font-face
-{
-    font-family: YEEZY TSTAR;
-    src: url('yeezy_tstar-regular-webfont.ttf'),
-}
 h1 {
     font-size: 3em;
     font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
@@ -45,4 +40,9 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+@font-face
+{
+    font-family: YEEZY TSTAR;
+    src: url('yeezy_tstar-regular-webfont.ttf'),
 }
