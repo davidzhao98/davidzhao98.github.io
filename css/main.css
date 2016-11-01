@@ -60,6 +60,8 @@ pre {
 }
 
 footer {
+    position: fixed;
+    bottom: 0px;
     background-color: #ff4627
     border-top: 1px solid #ffffff;
     font-size: .8em;
