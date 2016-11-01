@@ -17,6 +17,9 @@ body > * {
     margin-right: 100px;
 }
 
+.div3 {
+    background-color: 838383;
+}
 .div2 {
       background-color: #ff4627;
       flex-grow: 1;
