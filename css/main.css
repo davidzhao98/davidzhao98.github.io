@@ -1,4 +1,5 @@
 body {
+    background-color: #838383;
     margin: 60px auto;
     width: 70%;
 }
@@ -20,12 +21,10 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    background-color: green;
     font-size: 3em;
     font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
 }
 p {
-    background-color: blue;
     font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
     font-size: 1.5em;
     line-height: 1.4em;
