@@ -53,9 +53,9 @@ footer {
 }
 
 div {
-    width: 100%;
+    width: 60% auto;
     height: 20%;
-    background-color: #ff4627;
+    background-color: #000000;
 }
 
 ul.posts {
