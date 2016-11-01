@@ -26,6 +26,13 @@ h1 {
     font-size: 3em;
     font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
 }
+
+h2 {
+    background-color: #ff4627;
+    color: white;
+    font-size: 3em;
+    font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
+}
 p {
     color: white;
     font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
@@ -36,9 +43,7 @@ footer {
     border-top: 1px solid #ffffff;
     font-size: .8em;
 }
-div {
-    background-color: #ff4627;
-}
+
 ul.posts {
     margin: 20px auto 40px;
     font-size: 1.5em;
