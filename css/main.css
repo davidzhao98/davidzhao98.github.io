@@ -60,6 +60,7 @@ pre {
 }
 
 footer {
+    text-align: center;
     position: fixed;
     bottom: 0px;
     background-color: #ff4627
