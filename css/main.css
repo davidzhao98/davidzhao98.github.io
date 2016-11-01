@@ -18,7 +18,7 @@ body > * {
 }
 
 .div2 {
-      background-color: orange;
+      background-color: #ff4627;
       flex-grow: 1;
     }
 nav ul, footer ul {
@@ -65,7 +65,9 @@ pre {
     font-size: 1.5em;
     line-height: 1.4em;
 }
+
 footer {
+    background-color: #ff4627
     border-top: 1px solid #ffffff;
     font-size: .8em;
 }
