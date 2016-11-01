@@ -24,6 +24,7 @@ h1 {
     font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
 }
 p {
+    font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -41,6 +42,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 @font-face
 {
     font-family: YEEZY TSTAR;
