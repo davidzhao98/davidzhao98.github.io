@@ -13,8 +13,8 @@ body > * {
       flex-shrink: 0;
 }
 .div1 {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .div3 {
@@ -53,6 +53,10 @@ p {
     font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
     font-size: 1.5em;
     line-height: 1.4em;
+}
+
+.p1 {
+    text-align: center;
 }
 
 pre {
