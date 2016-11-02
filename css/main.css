@@ -90,7 +90,7 @@ ul.posts li {
 @font-face
 {
     font-family: 'YEEZY TSTAR Regular', sans-serif !important;
-    src: url("../davidzhao98.github.io/css/yeezytstar.ttf") format('truetype'),
+    src: url("../../davidzhao98.github.io/css/yeezytstar.ttf") format('truetype'),
         url('./yeezy.woff') format('woff');
 }
 /*font-face {
