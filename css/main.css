@@ -52,7 +52,7 @@ h1 {
 }
 p {
     color: white;
-    font-family:'asdfyeezy', 'asdfyeezy', 'asdfyeezy';
+    font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
     font-size: 1.5em;
     line-height: 1.4em;
 }
@@ -92,7 +92,7 @@ ul.posts li {
     font-family: 'YEEZY TSTAR', sans-serif;
     src: url('yeezy_tstar-regular-webfont.ttf') format('true type'),
 }
-@@font-face {
+/*@@font-face {
     font-family: 'asdfyeezy' sans-serif;
     src: url('yeezy.woff') format('woff'),
-}
+}*/
