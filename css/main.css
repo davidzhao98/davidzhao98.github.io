@@ -89,7 +89,7 @@ ul.posts li {
 
 @font-face
 {
-    font-family: 'YEEZY TSTAR', sans-serif;
+    font-family: 'YEEZY TSTAR', sans-serif !important;
     src: url("./yeezytstar.ttf") format('truetype');
 }
 /*@@font-face {
