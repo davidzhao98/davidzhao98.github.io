@@ -23,7 +23,7 @@ body > * {
     background-color: #838383;
 }
 .div2 {
-      background-color: #ff4627;
+      background-color: #82756C;
       flex-grow: 1;
     }
 nav ul, footer ul {
@@ -72,7 +72,7 @@ footer {
     text-align: center;
     position: fixed;
     bottom: 0px;
-    background-color: #ff4627
+    background-color: #82756C
     border-top: 1px solid #ffffff;
     font-size: .8em;
     width: 100%;
