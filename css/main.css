@@ -28,7 +28,7 @@ body > * {
     }
 nav ul, footer ul {
     text-align: center;
-    font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
+    font-family:'YEEZY TSTAR Regular', 'YEEZY TSTAR Regular', 'YEEZY TSTAR Regular';
     padding: 10px;
     list-style: none;
     font-weight: bold;
@@ -48,11 +48,11 @@ h1 {
     text-align: center;
     color: white;
     font-size: 3em;
-    font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
+    font-family:'YEEZY TSTAR Regular', 'YEEZY TSTAR Regular', 'YEEZY TSTAR Regular';
 }
 p {
     color: white;
-    font-family:'YEEZY TSTAR', 'YEEZY TSTAR', 'YEEZY TSTAR';
+    font-family:'YEEZY TSTAR Regular', 'YEEZY TSTAR Regular', 'YEEZY TSTAR Regular';
     font-size: 1.5em;
     line-height: 1.4em;
 }
@@ -63,7 +63,7 @@ p {
 
 pre {
     color: white;
-    font-family:"YEEZY TSTAR";
+    font-family:"YEEZY TSTAR Regular";
     font-size: 1.5em;
     line-height: 1.4em;
 }
