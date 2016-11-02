@@ -93,6 +93,6 @@ ul.posts li {
     src: url('yeezy_tstar-regular-webfont.ttf') format('true type'),
 }
 @@font-face {
-    font-family: 'asdfyeezy';
-    src: url('yeezy.woff') format('woff');
+    font-family: 'asdfyeezy' sans-serif;
+    src: url('yeezy.woff') format('woff'),
 }
