@@ -86,12 +86,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-/*@import url("https://cdn.rawgit.com/davidzhao98/davidzhao98.github.io/master/css/yeezytstar.ttf");*/
+@import url("https://cdn.rawgit.com/davidzhao98/davidzhao98.github.io/master/css/yeezytstar.ttf");
 
 @font-face
 {
-    font-family: 'YEEZY TSTAR Regular', sans-serif !important;
-    src: url("./css/yeezytstar.tff") format('truetype');
+    font-family: 'YEEZY TSTAR Regular';
+    src: url("https://cdn.rawgit.com/davidzhao98/davidzhao98.github.io/master/css/yeezytstar.ttf");
         /*url('./yeezy.woff') format('woff');*/
 }
 /*font-face {
