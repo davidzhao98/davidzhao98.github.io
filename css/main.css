@@ -43,7 +43,7 @@ a {
 }
 a:hover {
     color: #ffffff;
-    text-decoration: underline;
+    text-decoration: none;
 }
 h1 {
     text-align: center;
