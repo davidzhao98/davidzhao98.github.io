@@ -28,7 +28,7 @@ body > * {
     }
 nav ul, footer ul {
     text-align: center;
-    font-family:'YEEZY TSTAR Regular';
+    font-family:'VCR OSD Mono';
     padding: 10px;
     list-style: none;
     font-weight: bold;
@@ -94,6 +94,10 @@ ul.posts li {
     font-family: 'YEEZY TSTAR Regular';
     src: url("https://cdn.rawgit.com/davidzhao98/davidzhao98.github.io/master/css/yeezytstar.ttf");
         /*url('./yeezy.woff') format('woff');*/
+}
+@font-face {
+    font-family: 'VCR OSD Mono';
+    src: url("./css/vcrmono.ttf")
 }
 /*font-face {
     font-family: 'asdfyeezy' sans-serif;
