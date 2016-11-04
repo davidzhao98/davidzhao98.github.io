@@ -38,11 +38,11 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-    text-decoration: underline;
+    text-decoration: none;
     color: #ffffff;
 }
 a:hover {
-    text-decoration: none;
+    text-decoration: underline;
 }
 h1 {
     text-align: center;
