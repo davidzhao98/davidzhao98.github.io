@@ -1,18 +1,18 @@
 body {
     font-family: 'Helvetica-Bold', sans-serif;
-    background-color: #1B1C1D;
-    color: #FFFFFF;
+    background-color: #EBF4EC;
+    color: #000000;
     margin: 2em;
 }
 
 a {
-    color: #FFFFFF;
+    color: #000000;
     text-decoration: none;
     transition: 0.3s;
 }
 
 a:hover {
-    color: #CCCCCC;
+    color: #878787;
     transition: 0.3s;
 }
 
