@@ -25,6 +25,84 @@
                 <br>
 
             </div>
+            <div class="project-pictures">
+                <img class="mySlides drone" src="./images/android.PNG" style="width:80%">
+                <img class="mySlides drone" src="./images/dji.PNG" style="width:80%">
+                <img class="mySlides drone" src="./images/drone.PNG" style="width:80%">
+
+                <button class="button" onclick="plusDivs1(-1)">&#10094;</button>
+                <button class="button" onclick="plusDivs1(1)">&#10095;</button>
+            </div>
+
+            <div class="quote">
+                <h4 class="headline">DroneScan</h4>
+                <p>At UPS's Summer Internship Hackathon, my team and I developed "DroneScan", a mobile application that conducts automatic cycle counting in warehouses using a DJI Phantom 4 drone. The app controls the drone and gives instructions on where to move next in the warehouse. Using the live feed from the drone's camera, barcodes in the image are scanned and analyzed and then stored into a database.</p>
+                <p>Technologies used: Android Studio, DJI Mobile SDK, Google Mobile Vision API</p>
+                <p>Acknowledgements: Second Place, c/o Max Spehr, Abele Amsalu, Amy Zhuang, and Nusrat Sultana</p>
+                <hr>
+                <br>
+            </div>
+
+            <div class="project-pictures">
+                <img class="mySlides restockX" src="./images/adidas.PNG" style="width:81.6%">
+                <img class="mySlides restockX" src="./images/restock.PNG" style="width:80%">
+                <br>
+                <button class="button" onclick="plusDivs2(-1)">&#10094;</button>
+                <button class="button" onclick="plusDivs2(1)">&#10095;</button>
+            </div>
+
+            <div class="quote">
+                <h4 class="headline">RestockX</h4>
+                <p>At UPS's Summer Internship Hackathon, my team and I developed "DroneScan", a mobile application that conducts automatic cycle counting in warehouses using a DJI Phantom 4 drone. The app controls the drone and gives instructions on where to move next in the warehouse. Using the live feed from the drone's camera, barcodes in the image are scanned and analyzed and then stored into a database.</p>
+                <p>Technologies used: Python, Requests API, and BeautifulSoup4 API</p>
+                <hr>
+                <br>
+            </div>
+
+            <div class="project-pictures">
+                <img class="mySlides checkout" src="./images/.PNG" style="width:80%">
+                <img class="mySlides checkout" src="./images/.PNG" style="width:80%">
+                <button class="button" onclick="plusDivs3(-1)">&#10094;</button>
+                <button class="button" onclick="plusDivs3(1)">&#10095;</button>
+            </div>
+
+            <script>
+            var slideIndex = 1;
+            showDivs1(slideIndex);
+            showDivs2(slideIndex);
+            showDivs3(slideIndex);
+
+            function plusDivs1(n) {
+                showDivs1(slideIndex += n);
+            }
+
+            function showDivs1(n) {
+                var i;
+                var x = document.getElementsByClassName("drone");
+                if (n > x.length) {slideIndex = 1}
+                if (n < 1) {slideIndex = x.length}
+                for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none";
+                }
+                x[slideIndex-1].style.display = "block";
+            }
+
+            function plusDivs2(n) {
+                showDivs2(slideIndex += n);
+            }
+
+            function showDivs2(n) {
+                var i;
+                var x = document.getElementsByClassName("restockX");
+                if (n > x.length) {slideIndex = 1}
+                if (n < 1) {slideIndex = x.length}
+                for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none";
+                }
+                x[slideIndex-1].style.display = "block";
+            }
+            </script>
+
             <br><br><br><br><br><br><br><br>
             <br><br><br><br><br><br><br><br><br>
         </main>
