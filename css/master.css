@@ -21,6 +21,13 @@ hr {
     border-style: solid;
 }
 
+::selection {
+  background: #D3DBD4; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #D3DBD4; /* Gecko Browsers */
+}
+
 .title {
     font-size: 18px;
     font-size: 1.125rem;
