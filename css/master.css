@@ -22,10 +22,10 @@ hr {
 }
 
 ::selection {
-  background: #D3DBD4; /* WebKit/Blink Browsers */
+  background: #B3D4FC; /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
-  background: #D3DBD4; /* Gecko Browsers */
+  background: #B3D4FC; /* Gecko Browsers */
 }
 
 .title {
