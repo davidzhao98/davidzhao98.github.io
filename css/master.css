@@ -225,3 +225,10 @@ b {
     font-family: 'Caslon';
     src: url("./Caslon-Semibold.otf");
 }
+
+@media (min-width: 300px) and (max-width: 814px) {
+    .wrapper {
+        width: 95%;
+        margin: auto;
+    }
+}
