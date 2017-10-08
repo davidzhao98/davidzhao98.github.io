@@ -85,7 +85,7 @@ hr {
 .leftcol {
     font-size: 16px;
     text-align: left;
-    width:18%;
+    width:190px;
     display: inline-block;
     vertical-align:top;
 }
@@ -228,7 +228,29 @@ b {
 
 @media (min-width: 300px) and (max-width: 814px) {
     .wrapper {
-        width: 95%;
+        width: 97%;
+        margin: auto;
+    }
+
+    .leftcol {
+        font-size: 16px;
+        text-align: left;
+        width:150px;
+        display: inline-block;
+        vertical-align:top;
+    }
+
+    .footer-col {
+        padding: 0 2px 0 0;
+        display: inline-block;
+        position: relative;
+        float: left
+    }
+}
+
+@media (orientation: portrait) {
+    .wrapper {
+        width: 100%;
         margin: auto;
     }
 }
