@@ -1,5 +1,6 @@
 body {
-    font-family: 'Helvetica-Bold', sans-serif;
+    font-family: 'Helvetica', 'Helvetica Bold', Arial, sans-serif;
+    font-weight: bold;
     background-color: #EBF4EC;
     color: #000000;
     margin: 2em;
@@ -135,6 +136,7 @@ hr {
     font-family: 'Caslon', serif;
     font-size: 18px;
     line-height: 23px;
+    font-weight: normal;
 }
 
 .typed-cursor{
