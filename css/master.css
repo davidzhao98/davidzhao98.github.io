@@ -34,13 +34,13 @@ hr {
 }
 
 .resume {
-    width: 62.5rem;
+    width: 53.125rem;
     height: 70.5rem;
     margin-bottom: 20px
 }
 
 .resume-box {
-    width: 1000px;
+    width: 850px;
 }
 
 .headline {
@@ -56,7 +56,7 @@ hr {
 }
 
 .wrapper {
-    width: 1000px;
+    width: 850px;
     margin: auto;
 }
 
