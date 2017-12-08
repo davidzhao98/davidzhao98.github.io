@@ -226,7 +226,7 @@ b {
     src: url("./Caslon-Semibold.otf");
 }
 
-@media (min-width: 300px) and (max-width: 814px) {
+@media (min-width: 300px) and (max-width: 859px) {
     .wrapper {
         width: 97%;
         margin: auto;
